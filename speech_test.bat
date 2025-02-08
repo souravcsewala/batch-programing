@@ -1,4 +1,4 @@
-@echo off   
+@echo off       
 echo hello sourav sir 
 echo.
 echo Today's date %DATE%
